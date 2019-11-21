@@ -2,8 +2,7 @@
   "name": "spend-money",
   "version": "0.1.0",
   "private": true,
-
-  "homepage": "https://VincentFangLin.github.io/fangyuan.git/",
+  "homepage": "https://VincentFangLin.github.io/fangyuan/",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "gh-pages": "^2.1.1",
