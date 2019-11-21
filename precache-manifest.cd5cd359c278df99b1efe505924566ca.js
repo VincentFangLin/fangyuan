@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e39de21d218266247273bcdb5c276137",
+    "revision": "fa9eb27ee8f54db4d0c813a47b8579cd",
     "url": "/fangyuan/index.html"
   },
   {
-    "revision": "54590111701dfb76cfca",
+    "revision": "056acaa7007d0160d019",
     "url": "/fangyuan/static/css/main.dbb93e02.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fangyuan/static/js/2.114c6c59.chunk.js"
   },
   {
-    "revision": "54590111701dfb76cfca",
-    "url": "/fangyuan/static/js/main.d0e79de5.chunk.js"
+    "revision": "056acaa7007d0160d019",
+    "url": "/fangyuan/static/js/main.0e4a64fc.chunk.js"
   },
   {
     "revision": "17951230d81ba491f544",
@@ -44,20 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fangyuan/static/media/jack-ma.c7df92ef.jpg"
   },
   {
-    "revision": "6603da2dc01f49edb1bfdbdba0b64951",
-    "url": "/fangyuan/static/media/jack1.6603da2d.mp3"
+    "revision": "19e517b81e895db26b498bd53b37cec4",
+    "url": "/fangyuan/static/media/jack1.19e517b8.mp3"
   },
   {
-    "revision": "ca0a6dde3333473ee9eaa4d91538d72b",
-    "url": "/fangyuan/static/media/jack2.ca0a6dde.mp3"
+    "revision": "19e517b81e895db26b498bd53b37cec4",
+    "url": "/fangyuan/static/media/jack2.19e517b8.mp3"
   },
   {
-    "revision": "be603e1ca78e2bda719b6e416fb58086",
-    "url": "/fangyuan/static/media/jack3.be603e1c.mp3"
+    "revision": "19e517b81e895db26b498bd53b37cec4",
+    "url": "/fangyuan/static/media/jack3.19e517b8.mp3"
   },
   {
-    "revision": "4328b3c7ad7702364136921728cf8386",
-    "url": "/fangyuan/static/media/jack4.4328b3c7.mp3"
+    "revision": "19e517b81e895db26b498bd53b37cec4",
+    "url": "/fangyuan/static/media/jack4.19e517b8.mp3"
   },
   {
     "revision": "87c47e7e7dd56bee2b3cefcd5f235209",

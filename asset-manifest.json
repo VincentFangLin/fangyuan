@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fangyuan/static/css/main.dbb93e02.chunk.css",
-    "main.js": "/fangyuan/static/js/main.d0e79de5.chunk.js",
-    "main.js.map": "/fangyuan/static/js/main.d0e79de5.chunk.js.map",
+    "main.js": "/fangyuan/static/js/main.0e4a64fc.chunk.js",
+    "main.js.map": "/fangyuan/static/js/main.0e4a64fc.chunk.js.map",
     "runtime-main.js": "/fangyuan/static/js/runtime-main.e202ba16.js",
     "runtime-main.js.map": "/fangyuan/static/js/runtime-main.e202ba16.js.map",
     "static/js/2.114c6c59.chunk.js": "/fangyuan/static/js/2.114c6c59.chunk.js",
     "static/js/2.114c6c59.chunk.js.map": "/fangyuan/static/js/2.114c6c59.chunk.js.map",
     "index.html": "/fangyuan/index.html",
-    "precache-manifest.c24acf04619f465145370e8b2b1c8bdc.js": "/fangyuan/precache-manifest.c24acf04619f465145370e8b2b1c8bdc.js",
+    "precache-manifest.cd5cd359c278df99b1efe505924566ca.js": "/fangyuan/precache-manifest.cd5cd359c278df99b1efe505924566ca.js",
     "service-worker.js": "/fangyuan/service-worker.js",
     "static/css/main.dbb93e02.chunk.css.map": "/fangyuan/static/css/main.dbb93e02.chunk.css.map",
     "static/media/Air Jordan.jpg": "/fangyuan/static/media/Air Jordan.ed29795f.jpg",
@@ -17,10 +17,10 @@
     "static/media/Supreme砖头.jpg": "/fangyuan/static/media/Supreme砖头.a2949458.jpg",
     "static/media/T恤.jpg": "/fangyuan/static/media/T恤.4706814f.jpg",
     "static/media/jack-ma.jpg": "/fangyuan/static/media/jack-ma.c7df92ef.jpg",
-    "static/media/jack1.mp3": "/fangyuan/static/media/jack1.6603da2d.mp3",
-    "static/media/jack2.mp3": "/fangyuan/static/media/jack2.ca0a6dde.mp3",
-    "static/media/jack3.mp3": "/fangyuan/static/media/jack3.be603e1c.mp3",
-    "static/media/jack4.mp3": "/fangyuan/static/media/jack4.4328b3c7.mp3",
+    "static/media/jack1.mp3": "/fangyuan/static/media/jack1.19e517b8.mp3",
+    "static/media/jack2.mp3": "/fangyuan/static/media/jack2.19e517b8.mp3",
+    "static/media/jack3.mp3": "/fangyuan/static/media/jack3.19e517b8.mp3",
+    "static/media/jack4.mp3": "/fangyuan/static/media/jack4.19e517b8.mp3",
     "static/media/lemon.png": "/fangyuan/static/media/lemon.87c47e7e.png",
     "static/media/logo.svg": "/fangyuan/static/media/logo.25bf045c.svg",
     "static/media/一斤猪肉.jpg": "/fangyuan/static/media/一斤猪肉.c0760251.jpg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.e202ba16.js",
     "static/js/2.114c6c59.chunk.js",
     "static/css/main.dbb93e02.chunk.css",
-    "static/js/main.d0e79de5.chunk.js"
+    "static/js/main.0e4a64fc.chunk.js"
   ]
 }

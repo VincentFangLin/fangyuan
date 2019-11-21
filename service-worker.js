@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fangyuan/precache-manifest.c24acf04619f465145370e8b2b1c8bdc.js"
+  "/fangyuan/precache-manifest.cd5cd359c278df99b1efe505924566ca.js"
 );
 
 self.addEventListener('message', (event) => {
